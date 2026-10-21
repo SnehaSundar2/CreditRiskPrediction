@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+creditrisk.log
+models/
+reports/
+predictions/
+.pytest_cache/
